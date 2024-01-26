@@ -14,5 +14,5 @@ This will be a list :
 
 
 ![mbappe should be here] 
-![](/Users/rachelpianet/Desktop/Lessons/Programming for Economists II/Session 1-2/Session3-4/Session3-4Tom/mbappe.jpeg)
+![](mbappe.jpeg)
 
