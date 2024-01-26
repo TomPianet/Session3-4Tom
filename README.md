@@ -10,8 +10,7 @@ This will be a list :
 2. Become good
 3. profit !
 
-'''python
-
+Mbappe picture :
 
 ![mbappe should be here] 
 ![](mbappe.jpeg)
